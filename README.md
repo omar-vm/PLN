@@ -1,2 +1,2 @@
 # PLN
-Limpieza y lematización de texto
+Normalizacón y lematización de texto
