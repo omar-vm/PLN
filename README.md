@@ -9,9 +9,9 @@ Este proyecto implementa un pipeline fundamental de Procesamiento de Lenguaje Na
 3. **Filtrado de Stop Words:** Discrimina y elimina signos de puntuación y palabras vacías (artículos, preposiciones) que no aportan peso semántico significativo.
 4. **Lematización y Normalización:** Convierte verbos conjugados a su infinitivo y estandariza todo el texto a minúsculas (ej. *pescaba* ➡ *pescar*).
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Librerias Utilizadas
 
-- **Python 3.x**
+- **Python 3.12.3**
 - **spaCy** (Librería principal de NLP)
 - **es_core_news_sm** (Modelo de lenguaje optimizado para español)
 - **Jupyter Notebook / IPython** (Entorno de desarrollo y experimentación)
